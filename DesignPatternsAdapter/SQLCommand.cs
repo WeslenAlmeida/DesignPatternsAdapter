@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesignPatternsAdapter
 {
-    //
+    //Comandos para o banco de dados SQL
     internal class SQLCommand : IAdapterDB
     {
         public string Insert()

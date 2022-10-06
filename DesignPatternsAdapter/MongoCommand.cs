@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace DesignPatternsAdapter
 {
-    //Comandos do MongoDB
-    internal class MongoCommand
+    //Comandos do banco de dados MongoDB
+    internal class MongoCommand 
     {
         public string MGInsert()
         {
